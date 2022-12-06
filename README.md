@@ -25,11 +25,11 @@
 
 
 ----
-Findings and Recommendations
+# Findings and Recommendations
 
 ----
 
 # The Trend Analysis
 # The Discount Analysis
 # The Revenue Analysis
-# Recommendations for the Company
+
