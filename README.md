@@ -1,4 +1,4 @@
-# Project Name: PowerBI-financial-data
+# Project Name: PowerBI-Financial-Data
 
 ----
 # Outline
